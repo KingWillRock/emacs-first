@@ -1,0 +1,10 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("temp"
+ (filename . "~/Work/Dw/dev-base/dw-fe/Game/Assets/Scripts/Network/Request/RequestManager.cs")
+ (front-context-string . "\n		inst = this;\n")
+ (rear-context-string . "\n			return;\n		}\n")
+ (position . 374))
+)

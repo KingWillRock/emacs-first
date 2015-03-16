@@ -1,0 +1,52 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Thu Feb 26 18:33:08 2015
+;; Desktop file format version 206
+;; Emacs version 24.4.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (21742 63076 991113 0) (desktop . "206") "kingwillrock@KingWillRockdeMacBook-Pro.local" nil nil ((((font-backend mac-ct ns) (fontsize . 0) (font . "-apple-Menlo-medium-normal-normal-*-14-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 2) (vertical-scroll-bars . right) (foreground-color . "#839496") (background-color . "#002b36") (line-spacing) (left-fringe . 11) (right-fringe . 13) (menu-bar-lines . 1) (tool-bar-lines . 1) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 15) (alpha) (fullscreen) (horizontal-scroll-bars . t) (display-type . color) (background-mode . dark) (cursor-color . "#839496") (environment) (frameset--id . "6A68-F16B-BDE8-23D8") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (right-divider-width . 0) (bottom-divider-width . 0) (icon-name) (display . "KingWillRockdeMacBook-Pro.local") (explicit-name) (tool-bar-position . top) (visibility . t) (height . 56) (width . 230) (left . 1449) (top + -603)) ((min-height . 8) (min-width . 20) (min-height-ignore . 4) (min-width-ignore . 14) (min-height-safe . 2) (min-width-safe . 4) (min-pixel-height . 136) (min-pixel-width . 160) (min-pixel-height-ignore . 68) (min-pixel-width-ignore . 112) (min-pixel-height-safe . 34) (min-pixel-width-safe . 32)) hc (pixel-width . 1879) (pixel-height . 935) (total-width . 235) (total-height . 55) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (vc (pixel-width . 600) (pixel-height . 935) (total-width . 75) (total-height . 55) (normal-height . 1.0) (normal-width . 0.319318786588611) (combination-limit) (leaf (pixel-width . 600) (pixel-height . 442) (total-width . 75) (total-height . 26) (normal-height . 0.4727272727272728) (normal-width . 1.0) (buffer "Scripts" (selected) (hscroll . 23) (fringes 10 11 nil) (margins 3) (scroll-bars 15 2 t nil) (vscroll . 0) (dedicated) (point . 11056) (start . 10435))) (leaf (last . t) (pixel-width . 600) (pixel-height . 493) (total-width . 75) (total-height . 29) (normal-height . 0.5272727272727272) (normal-width . 1.0) (buffer "dw-fe.org" (selected) (hscroll . 0) (fringes 11 13 nil) (margins 2) (scroll-bars 15 2 t nil) (vscroll . 0) (dedicated) (point . 185) (start . 1)))) (leaf (last . t) (pixel-width . 1279) (pixel-height . 935) (total-width . 160) (total-height . 55) (normal-height . 1.0) (normal-width . 0.680681213411389) (buffer "init.el" (selected . t) (hscroll . 0) (fringes 11 13 nil) (margins 3) (scroll-bars 15 2 t nil) (vscroll . 0) (dedicated) (point . 1253) (start . 1)))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("Script" "Net" "Script" "wor" "l" "Wor" "assemblv" "Asset"))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/.emacs.d/" "~/.emacs.d/init.el" "~/.emacs.d/" "~/Life/todo/dw-fe.org" "~/.emacs.d/" "~/Work/Dw/dev-base/dw-fe/Game/Game.sln" "~/.emacs.d/" "" "~/Work/Dw/dev-base/dw-fe/Game/Game.sln" "~/.emacs.d/" "~/" "TAGS" "~/Life/todo/test.org" "~/.emacs.d/init.el" "~/Work/Dw/dev-base/dw-fe/Game/Game-csharp.sln" "~/Work/Dw/dev-base/dw-fe/Game/" "~/Work/Dw/dev-base/dw-fe/" "~/.emacs.d/init.el"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/Users/kingwillrock/.emacs.d/init.el"
+  "init.el"
+  'emacs-lisp-mode
+  '(auto-complete-mode linum-mode)
+  1253
+  '(1253 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . prefer-utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/Users/kingwillrock/Life/todo/dw-fe.org"
+  "dw-fe.org"
+  'org-mode
+  '(linum-mode org-indent-mode)
+  185
+  '(101 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  nil
+  "Scripts"
+  'dired-mode
+  '(linum-mode)
+  11056
+  '(4666 nil)
+  t
+  '("/Users/kingwillrock/Work/Dw/dev-base/dw-fe/Game/Assets/Scripts/")
+  nil)
+

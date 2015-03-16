@@ -1,0 +1,33 @@
+
+;; ----- smex-history -----
+(
+ package-install
+ helm-buffers-list
+ shell-command
+ shell
+ eww-open-file
+ load-file
+ helm-imenu
+)
+
+;; ----- smex-data -----
+(
+ (cd . 1)
+ (load-file . 14)
+ (desktop-read . 8)
+ (desktop-save . 1)
+ (omnisharp-mode . 4)
+ (package-install . 5)
+ (imenu . 1)
+ (imenu-add-to-menubar . 1)
+ (helm-imenu . 17)
+ (helm-find . 3)
+ (helm-help . 2)
+ (omnisharp-reload-solution . 6)
+ (helm-buffers-list . 7)
+ (omnisharp-add-to-solution-current-file . 2)
+ (dired-create-directory . 2)
+ (eww-open-file . 1)
+ (shell . 1)
+ (shell-command . 1)
+)
